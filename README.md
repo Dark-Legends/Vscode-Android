@@ -32,3 +32,18 @@ chmod +x Vscode-script.sh Vscode-server.sh
 ```bash
 ./Vscode-server.sh
 ```
+
+# Now Follow Me for To Use The To Tool 🙋‍♂️
+
+- 
+
+- 1. Start Any Your Own Password For Vscode Server
+
+- 2. Stop Vscode Server
+
+- 3. Exit
+
+- 4. About Usage Tool
+
+- 5. Start Any Default Password for Vscode server
+
