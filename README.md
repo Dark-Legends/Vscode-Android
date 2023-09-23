@@ -33,7 +33,7 @@ chmod +x Vscode-script.sh Vscode-server.sh
 ./Vscode-server.sh
 ```
 
-# Now Follow Me for To Use The To Tool 🙋‍♂️
+# Now Follow Me for To Use The Tool 🙋‍♂️
 
 - 
 
