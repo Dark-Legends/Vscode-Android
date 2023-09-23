@@ -15,7 +15,7 @@ apt install git -y
 ```
 
 ```bash
-git clone github.com/Dark-Legends/Vscode-Android.git
+git clone https://github.com/Dark-Legends/Vscode-Android
 ```
 ```bash
 cd Vscode-Android
