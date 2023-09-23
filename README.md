@@ -24,6 +24,7 @@ cd Vscode-Android
 ```bash
 chmod +x Vscode-script.sh Vscode-server.sh
 ```
+- first please run this script OK 👇
 
 ```bash
 ./Vscode-script.sh
@@ -35,15 +36,34 @@ chmod +x Vscode-script.sh Vscode-server.sh
 
 # Now Follow Me for To Use The Tool 🙋‍♂️
 
-
+#  [1]  If you want to put your own password to use Number 1. ok
 
 - 1. Start Any Your Own Password For Vscode Server
+ 
 
-- 2. Stop Vscode Server
 
-- 3. Exit
+
+# [2] If you want to stop Enter the Number 2. ok
+
+- 2. Stop
+ 
+  
+
+# [3]  exit means The script End ok
+
+- 3. exit
+
+
+
+# [4] If usage of this tool and information ok
 
 - 4. About Usage Tool
+ 
+
+
+# [5] If want to start with default password the default password is 👇 ok
+- password 
 
 - 5. Start Any Default Password for Vscode server
 
+don't forgot the default password is password only ok
